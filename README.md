@@ -171,5 +171,3 @@ Transforms complex financial data into meaningful visual insights for faster and
 
 Identifies low-performing segments and financial trends to improve future business strategies.
 
-![Alt text](https://github.com/username/repo/assets/image.png)
-![Dashboard Preview]()
